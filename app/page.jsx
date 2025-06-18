@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <div className="base-content flex justify-center">
-        <div className="text-center mt-10 mx-40">
+        <div className="w-full max-w-screen-xl px-4 text-center mt-10">
           <ContentOne></ContentOne>
           <TableOne></TableOne>
           <ContentTwo></ContentTwo>
